@@ -106,7 +106,7 @@
   </div>
   <div class="col-md-11 text-left">
     <h2>
-      <b>GESTION DE AULAS Y BLOQUES</b>
+      <b>GESTION DE AULAS Y BLOQUES ARIEL</b>
     </h2>
 
   </div>
