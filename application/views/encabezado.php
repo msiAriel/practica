@@ -106,7 +106,7 @@
   </div>
   <div class="col-md-11 text-left">
     <h2>
-      <b>GESTION DE AULAS Y BLOQUES ARIEL ISAIAS</b>
+      <b>GESTION DE AULAS Y BLOQUES ARIEL ISAIAS y ELI</b>
     </h2>
 
   </div>
