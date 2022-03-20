@@ -1,7 +1,7 @@
 
 <form class="" action="<?php echo site_url();?>/aulas/insertarAula" method="post" id="frm_nuevoAula">
   <div class="form-group">
-  <label for="email">Nombre del Aula:</label>
+  <label for="email">Nombre del Aula ariel:</label>
   <input type="text" class="form-control" id="nombre_aul" name="nombre_aul" required>
 </div>
 <div class="form-group">
