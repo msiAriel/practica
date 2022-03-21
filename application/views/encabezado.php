@@ -106,7 +106,7 @@
   </div>
   <div class="col-md-11 text-left">
     <h2>
-      <b>GESTION DE AULAS Y BLOQUES 7mo sistemas</b>
+      <b>7mo sistemas</b>
     </h2>
 
   </div>
