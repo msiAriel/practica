@@ -111,6 +111,9 @@
 	  <h2>
       <b>App WEB</b>
     </h2>
+	    <h2>
+      <b>Creado por: @</b>
+    </h2>
 
   </div>
 </div>
